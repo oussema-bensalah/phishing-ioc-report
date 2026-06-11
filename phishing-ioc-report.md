@@ -71,7 +71,7 @@ AWS server-side encryption (AES256) is applied — this is standard AWS infrastr
 | PhishTank |  100% Valid Phish — ONLINE |
 | VirusTotal |  8/92 vendors flagged as Phishing (BitDefender, ESET, Fortinet, G-Data, Lionic, PhishTank, Sophos, VIPRE) |
 | URLVoid |  1/35 engines detected (SURBL) |
-| Google Safe Browsing | ❌ Not flagged — no warning shown to victims in browser |
+| Google Safe Browsing |  Not flagged — no warning shown to victims in browser |
 
 > **Key finding:** Google Safe Browsing has not flagged this URL. Victims visiting this page in Chrome or Firefox will receive no browser warning, making it actively dangerous.
 
