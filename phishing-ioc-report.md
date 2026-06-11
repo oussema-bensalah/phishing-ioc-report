@@ -80,7 +80,7 @@ AWS server-side encryption (AES256) is applied — this is standard AWS infrastr
 ## 6. Attack Infrastructure Map
 
 ```
-Victim (receives phishing email)
+Victim (receives phishing link via email/SMS/social media)
         |
         v
 Phishing URL (amazonaws.com S3 bucket)
